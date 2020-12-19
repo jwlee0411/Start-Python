@@ -10,17 +10,21 @@
 
 ##### [김우진](https://github.com/spstar18)
 
-##### [김호]
+##### [김재현](https://github.com/rlapo213)
 
-##### [엄희성]
+##### 김호
+
+##### [엄희성](https://github.com/HeeSungUm)
 
 ##### [우동관]
+
+##### 이경민
 
 ##### [이종우](https://github.com/sunrinint) 
 
 ##### [정해성](https://github.com/XxCtrlZxX)
 
-##### [조성욱]
+##### 조성욱
 
 
 ## 수정 기록
